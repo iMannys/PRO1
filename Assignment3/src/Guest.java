@@ -26,12 +26,11 @@ public class Guest
       return false;
     }
     Guest otherGuest = (Guest) obj;
-    return name.equals(otherGuest.name) &&
-        phone == otherGuest.phone;
+    return name.equals(otherGuest.name) && phone == otherGuest.phone;
   }
 
   @Override public String toString()
   {
-    return "Name: " + name + " Phone number: " + phone;
+    return "Name: " + name + " Phone: " + phone;
   }
 }

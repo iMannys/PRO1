@@ -74,19 +74,19 @@ public class HotelRoom
       guestString = guest.toString();
     }
 
-    return "Number: " + number + " Type: " + type
-        + " Price: " + price + " Guest: " + guestString;
+    return "Number: " + number + " Type: " + type + " Price: " + price
+        + " Guest: " + guestString;
   }
 
   public static double getRoomPrice(String type)
   {
-    switch(type)
+    switch (type)
     {
       case DOUBLE:
         return DOUBLE_PRICE;
       case FAMILY:
         return FAMILY_PRICE;
-      default:
+      default: // default is single room price
         return SINGLE_PRICE;
     }
   }
