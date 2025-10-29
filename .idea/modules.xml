@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Assignment2/Assignment2.iml" filepath="$PROJECT_DIR$/Assignment2/Assignment2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/Assignment3/Assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpgaveTest/CdList_Exercise/CdList_Exercise.iml" filepath="$PROJECT_DIR$/OpgaveTest/CdList_Exercise/CdList_Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Job_exercise_9b/Job_exercise_9b.iml" filepath="$PROJECT_DIR$/Job_exercise_9b/Job_exercise_9b.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" filepath="$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/OpgaveTest/OpgaveTest.iml" filepath="$PROJECT_DIR$/OpgaveTest/OpgaveTest.iml" />
