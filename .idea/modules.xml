@@ -4,15 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Assignment2/Assignment2.iml" filepath="$PROJECT_DIR$/Assignment2/Assignment2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/Assignment3/Assignment3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Child/Child.iml" filepath="$PROJECT_DIR$/Child/Child.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Grade_v5/Grade_v5.iml" filepath="$PROJECT_DIR$/Grade_v5/Grade_v5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpgaveTest/CdList_Exercise/CdList_Exercise.iml" filepath="$PROJECT_DIR$/OpgaveTest/CdList_Exercise/CdList_Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Job_exercise_9b/Job_exercise_9b.iml" filepath="$PROJECT_DIR$/Job_exercise_9b/Job_exercise_9b.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Mp3Player/Mp3Player.iml" filepath="$PROJECT_DIR$/Mp3Player/Mp3Player.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" filepath="$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpgaveTest/OpgaveTest.iml" filepath="$PROJECT_DIR$/OpgaveTest/OpgaveTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRO1.iml" filepath="$PROJECT_DIR$/PRO1.iml" />
       <module fileurl="file://$PROJECT_DIR$/PriorityNote_v1/PriorityNote_v1.iml" filepath="$PROJECT_DIR$/PriorityNote_v1/PriorityNote_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Song_v1/Song_v1.iml" filepath="$PROJECT_DIR$/Song_v1/Song_v1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TVSeries/TVSeries.iml" filepath="$PROJECT_DIR$/TVSeries/TVSeries.iml" />
     </modules>
   </component>
 </project>
