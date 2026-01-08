@@ -1,3 +1,5 @@
+package model;
+
 public class Cd
 {
   private String title;
@@ -48,7 +50,7 @@ public class Cd
 
   @Override public String toString()
   {
-    String s = "";
+    String s = "Cd: ";
     for (int i=0; i < songs.length; i++)
     {
       s += songs[i].toString();

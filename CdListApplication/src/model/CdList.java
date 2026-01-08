@@ -1,3 +1,5 @@
+package model;
+
 import java.util.ArrayList;
 
 public class CdList
@@ -50,6 +52,7 @@ public class CdList
       Cd cd = cds.get(i);
       if (cd.getTitle().equals(title))
       {
+        cds.remove(cd);
         return cd;
       }
     }
@@ -58,7 +61,7 @@ public class CdList
 
   @Override public String toString()
   {
-    String s = "";
+    String s = "CdList: ";
     for (int i=0; i < cds.size(); i++)
     {
       s += cds.get(i).toString();
