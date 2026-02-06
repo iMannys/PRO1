@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/CdListApplication/CdListApplication.iml" filepath="$PROJECT_DIR$/CdListApplication/CdListApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/CdList_Exercise/CdList_Exercise.iml" filepath="$PROJECT_DIR$/CdList_Exercise/CdList_Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exam_Board/Exam_Board.iml" filepath="$PROJECT_DIR$/Exam_Board/Exam_Board.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam_Book/Exam_Book.iml" filepath="$PROJECT_DIR$/Exam_Book/Exam_Book.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exam_Camera/Exam_Camera.iml" filepath="$PROJECT_DIR$/Exam_Camera/Exam_Camera.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exam_EmployeeList/Exam_EmployeeList.iml" filepath="$PROJECT_DIR$/Exam_EmployeeList/Exam_EmployeeList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exam_HousePlumbing/Exam_HousePlumbing.iml" filepath="$PROJECT_DIR$/Exam_HousePlumbing/Exam_HousePlumbing.iml" />
@@ -15,9 +16,9 @@
       <module fileurl="file://$PROJECT_DIR$/Exam_OrderLines/Exam_OrderLines.iml" filepath="$PROJECT_DIR$/Exam_OrderLines/Exam_OrderLines.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exam_Person-Car/Exam_Person-Car.iml" filepath="$PROJECT_DIR$/Exam_Person-Car/Exam_Person-Car.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exam_RoseGarden/Exam_RoseGarden.iml" filepath="$PROJECT_DIR$/Exam_RoseGarden/Exam_RoseGarden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam_SiteCollection/Exam_SiteCollection.iml" filepath="$PROJECT_DIR$/Exam_SiteCollection/Exam_SiteCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Job_exercise_9b/Job_exercise_9b.iml" filepath="$PROJECT_DIR$/Job_exercise_9b/Job_exercise_9b.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" filepath="$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OpgaveTest/OpgaveTest.iml" filepath="$PROJECT_DIR$/OpgaveTest/OpgaveTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRO1.iml" filepath="$PROJECT_DIR$/PRO1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Person_Exceptions/Person_Exceptions.iml" filepath="$PROJECT_DIR$/Person_Exceptions/Person_Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/PriorityNote_v1/PriorityNote_v1.iml" filepath="$PROJECT_DIR$/PriorityNote_v1/PriorityNote_v1.iml" />
